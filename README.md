@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Full-Stack Developer | Machine Learning Researcher | CSE Student
 
-I am a Computer Science and Engineering student at AIUB, a Full-Stack Developer, and a researcher. I am passionate about building scalable web applications and exploring advanced machine learning architectures. 
+I am a Computer Science and Engineering student at AIUB, a Full-Stack Developer, and a Researcher. I am passionate about building scalable web applications and exploring advanced machine learning architectures. 
 
 ## 🙋‍♂️ About Me:
 
